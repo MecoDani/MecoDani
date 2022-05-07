@@ -1,12 +1,12 @@
 # Aloh!
-# Soy Nicolás Torres 🤠
+## Soy Nicolás Torres 🤠
 ---
-## Estudiante en la Universidad Nacional de Rio Negro 
-## Cursando actualmente la carrera de Ingeniería en Computación 🤩
+### Estudiante en la Universidad Nacional de Rio Negro ✅
+### Cursando actualmente la carrera de Ingeniería en Computación 🤩
 ---
-### Por ahora aprendimos:
+### Por ahora vamos aprendiendo 🤓:
 - Python
 - BASH
-`ROJO?`
+- git (empezando)
 ---
-# Chao!
+# Chao! 🐱‍👤
