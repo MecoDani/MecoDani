@@ -14,3 +14,4 @@
 - git (empezando)
 ---
 # Chao! 🐱‍👤
+![Badge](https://bit.ly/icom-badge)
