@@ -13,5 +13,9 @@
 - BASH
 - git (empezando)
 ---
+´´´mermaid
+flowchart LR
+    id1[This is the text in the box]
+---
 # Chao! 🐱‍👤
 ![Badge](https://bit.ly/icom-badge)
