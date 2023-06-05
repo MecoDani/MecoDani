@@ -24,7 +24,9 @@
   <a href="https://github.com/santichac">
     <img src="https://avatars.githubusercontent.com/u/103904254?v=4" alt="Chac" width="100" height="100">
   </a>
-  </div>
+</div>
 ---
 # Chao! 🐱‍👤
-![Badge](https://bit.ly/icom-badge)
+<div>
+  ![Badge](https://bit.ly/icom-badge)
+</div>
