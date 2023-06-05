@@ -16,9 +16,9 @@
 - Java
 ---
 ### El piberio
-  [![Badge](https://avatars.githubusercontent.com/u/71991509?v=4)](https://github.com/ValenPianta)
-  [![Badge](https://avatars.githubusercontent.com/u/86004462?v=4)](https://github.com/Chabok52)
-  [![Badge](https://avatars.githubusercontent.com/u/103904254?v=4)](https://github.com/santichac)
+  [![Pianta](https://avatars.githubusercontent.com/u/71991509?v=4){width=100px height=100px}](https://github.com/ValenPianta)
+  [![Balen](https://avatars.githubusercontent.com/u/86004462?v=4)](https://github.com/Chabok52)
+  [![Chac](https://avatars.githubusercontent.com/u/103904254?v=4)](https://github.com/santichac)
 # Chao!
   ![Badge](https://bit.ly/icom-badge)
 
