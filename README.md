@@ -1,6 +1,8 @@
 # Aloh!
 ## Soy Nicolás Torres 🤠
 ---
+<img src="https://media.discordapp.net/attachments/750882843605074003/789322623049662465/emoji.gif"alt="Pingüino">
+---
 ### Nací en San Carlos de Bariloche
 ### Estudié unos 8 años Ingles: Certificado Advanced (C1) de Cambrdige 🇬🇧
 ---
