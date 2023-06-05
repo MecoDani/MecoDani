@@ -23,7 +23,6 @@
     <img src="https://avatars.githubusercontent.com/u/103904254?v=4" alt="Chac" width="100" height="100"></a>
 </div>
 <hr>
-
-<title> Chao! 🐱‍👤</title>
+<title>Chao! 🐱‍👤</title>
   <img src="https://bit.ly/icom-badge">
 </div>
