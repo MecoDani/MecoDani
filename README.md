@@ -4,7 +4,7 @@
 ![Pingüino](https://media.discordapp.net/attachments/750882843605074003/789322623049662465/emoji.gif)
 ---
 ### Nací en San Carlos de Bariloche
-### Estudié unos 8 años Ingles: Certificado Advanced (C1) de Cambrdige 🇬🇧
+### Estudié unos 8 años Ingles: Certificado Advanced (C1) de Cambridge 🇬🇧
 ---
 ### Estudiante en la Universidad Nacional de Rio Negro ✅
 ### Cursando actualmente la carrera de Ingeniería en Computación 🤩
