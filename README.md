@@ -14,7 +14,7 @@
 - Java
 ---
 ### 
-<img src="https://avatars.githubusercontent.com/u/71991509?v=4" alt="Pianta" width="2" height="2">
+<img src="https://avatars.githubusercontent.com/u/71991509?v=4" alt="Pianta" width="100" height="100">
 ---
 # Chao! 🐱‍👤
 ![Badge](https://bit.ly/icom-badge)
