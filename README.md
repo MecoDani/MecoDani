@@ -28,5 +28,5 @@
 ---
 # Chao! 🐱‍👤
 <div>
-  ![Badge](https://bit.ly/icom-badge)
+  <img src="https://bit.ly/icom-badge">
 </div>
