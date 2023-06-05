@@ -1,6 +1,5 @@
 # Aloh! <br>
-Soy Nicolás Torres 🤠
----
+Soy Nicolás Torres 🤠<br>
 ![Pingüino](https://media.discordapp.net/attachments/750882843605074003/789322623049662465/emoji.gif)
 ---
 ### Nací en San Carlos de Bariloche.
